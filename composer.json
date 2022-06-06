@@ -1,0 +1,15 @@
+{
+    "name": "fachrul/web",
+    "description": "ini adalah project CRUD",
+    "type": "project",
+    "license": "GPL",
+    "autoload": {
+        "psr-4": {
+            "Fachrul\\Web\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {
+        "nesbot/carbon": "^2.58"
+    }
+}
